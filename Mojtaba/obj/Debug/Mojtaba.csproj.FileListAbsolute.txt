@@ -1,0 +1,7 @@
+G:\mojtaba\Darsi\Kardani\ساختمان داده\SPARS MaTrIx\Mojtaba\Mojtaba\bin\Debug\Mojtaba.exe
+G:\mojtaba\Darsi\Kardani\ساختمان داده\SPARS MaTrIx\Mojtaba\Mojtaba\bin\Debug\Mojtaba.pdb
+G:\mojtaba\Darsi\Kardani\ساختمان داده\SPARS MaTrIx\Mojtaba\Mojtaba\obj\Debug\ResolveAssemblyReference.cache
+G:\mojtaba\Darsi\Kardani\ساختمان داده\SPARS MaTrIx\Mojtaba\Mojtaba\obj\Debug\Mojtaba.Form1.resources
+G:\mojtaba\Darsi\Kardani\ساختمان داده\SPARS MaTrIx\Mojtaba\Mojtaba\obj\Debug\Mojtaba.Properties.Resources.resources
+G:\mojtaba\Darsi\Kardani\ساختمان داده\SPARS MaTrIx\Mojtaba\Mojtaba\obj\Debug\Mojtaba.exe
+G:\mojtaba\Darsi\Kardani\ساختمان داده\SPARS MaTrIx\Mojtaba\Mojtaba\obj\Debug\Mojtaba.pdb
